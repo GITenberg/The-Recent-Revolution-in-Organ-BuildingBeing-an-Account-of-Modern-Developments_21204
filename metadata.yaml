@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9763'
     url: http://www.gutenberg.org/2009/agents/9763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21204#The-Recent-Revolution-in-Organ-BuildingBeing-an-Account-of-Modern-Developments
 gutenberg_issued: '2007-04-22'
 gutenberg_type: Text
 identifiers:
